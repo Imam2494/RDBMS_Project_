@@ -1,0 +1,11 @@
+ 
+Item Name		Price Per Unit		Quantity		Total
+ 
+bbb		346		1		346		 
+xy		2721		21		57141		 
+bbb		346		2		692		 
+xyz		2494		12		29928		 
+Total Price : 88107 
+ 
+You are Eligible for the Membership. Membership Code : 853803 
+Thank You !!!

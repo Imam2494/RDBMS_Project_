@@ -1,0 +1,17 @@
+grant connect to rdbms identified by shopmanagement;
+grant all privileges to rdbms;
+
+
+connect rdbms;
+
+
+-- starts from here
+
+create table grocery_list(
+	Item_name varchar2(30),
+	Price_Per_Unit number
+); 
+
+insert into grocery_list values('a',10);
+insert into grocery_list values('b',20);
+insert into grocery_list values('c',30);
